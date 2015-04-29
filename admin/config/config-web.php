@@ -19,7 +19,10 @@ return [
             'class' => 'cmsgears\cms\admin\Module'
         ],
         'cmgcart' => [
-            'class' => 'cmsgears\cms\admin\Module'
+            'class' => 'cmsgears\cart\admin\Module'
+        ],
+        'cmgcmn' => [
+            'class' => 'cmsgears\community\admin\Module'
         ]
     ],
     'components' => [
@@ -44,7 +47,7 @@ return [
         ],
         'sidebar' => [
         	'class' => 'cmsgears\core\admin\components\Sidebar',
-        	'modules' => [ 'cmgcart', 'cmgcms', 'cmgcore' ]
+        	'modules' => [ 'cmgcmn', 'cmgcart', 'cmgcms', 'cmgcore' ]
         ]
     ],
     'params' => $params

@@ -55,7 +55,7 @@ return [
         ],
         'fileManager' => [
         	'class' => 'cmsgears\files\components\FileManager',
-        	'uploadUrl' => 'http://localhost/cmgdemoblog/uploads/'
+        	'uploadUrl' => 'http://localhost/cmgdemocart/uploads/'
         ]
     ]
 ];
