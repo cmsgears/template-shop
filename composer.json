@@ -26,6 +26,7 @@
 		"cmsgears/module-sns-login": "dev-1.0.0-alpha",
 		"cmsgears/module-newsletter": "dev-1.0.0-alpha",
 		"cmsgears/module-notify": "dev-1.0.0-alpha",
+		"cmsgears/module-payment": "dev-1.0.0-alpha",
 		"cmsgears/module-cart": "dev-1.0.0-alpha",
 		"cmsgears/module-shop": "dev-1.0.0-alpha",
 		"cmsgears/plugin-file-manager": "dev-1.0.0-alpha",

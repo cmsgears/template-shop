@@ -7,6 +7,7 @@
 ./yii migrate/up --migrationPath=@cmsgears/plugin-social-meta/migrations --interactive=0
 ./yii migrate/up --migrationPath=@foxslider/cmg-plugin/migrations --interactive=0
 ./yii migrate/up --migrationPath=@cmsgears/module-sns-login/migrations --interactive=0
+./yii migrate/up --migrationPath=@cmsgears/module-payment/migrations --interactive=0
 ./yii migrate/up --migrationPath=@cmsgears/module-cart/migrations --interactive=0
 ./yii migrate/up --migrationPath=@cmsgears/module-shop/migrations --interactive=0
 ./yii migrate/up --migrationPath=@themes/shop/migrations --interactive=0

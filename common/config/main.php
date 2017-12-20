@@ -130,7 +130,7 @@ return [
 		],
 		// CMG Modules - Cart
 		'cart' => [
-			'class' => 'cmsgears\cart\common\components\Notify'
+			'class' => 'cmsgears\cart\common\components\Cart'
 		],
 		'order' => [
 			'class' => 'cmsgears\cart\common\components\Order'
@@ -142,7 +142,7 @@ return [
 			'class' => 'cmsgears\cart\common\components\Mailer'
 		],
 		// CMG Modules - Shop
-		'notify' => [
+		'shop' => [
 			'class' => 'cmsgears\shop\common\components\Shop'
 		],
 		// CMG Plugins
