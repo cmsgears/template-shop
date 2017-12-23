@@ -3,7 +3,9 @@
 	"description": "The shop template for cms module having default theme set to shop.",
 	"homepage": "http://www.cmsgears.org",
 	"type": "project",
-	"keywords": [ "yii", "yii2", "yii 2", "cmsgears", "template", "shop" ],
+	"keywords": [
+		"yii", "yii2", "yii 2", "cmsgears", "template", "shop"
+	],
 	"license": "GPLv3",
 	"support": {
 		"forum": "http://forum.cmsgears.org"
