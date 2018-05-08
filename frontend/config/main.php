@@ -6,7 +6,7 @@ $params = yii\helpers\ArrayHelper::merge(
 );
 
 return [
-	'id' => 'cmg-shop-site',
+	'id' => 'app-site',
 	'name' => 'Shop Demo',
 	'version' => '1.0.0',
 	'basePath' => dirname( __DIR__ ),
